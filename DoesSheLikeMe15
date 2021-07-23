@@ -1,25 +1,17 @@
 {
   "title": "Does She Like Me?!",
-  "description": "The creature known as man is quick to misunderstand. The same applies to the the pure middle-schooler Yokoyama-kun A diligent fellow who does his infirmary duty properly. You're so nice. Thank you. The one to say that to him was his classmate Nishino-san, so Yokoyama-kun ended up thinking (Isn't she only nice to me?! ) He couldn't help but be hopeful. (Does she like me?! ). This is the start of the misleading life between the fantasizing Yokoyama-kun and the equivocator Nishino-san. \n\nTwitter: @TimBiasaAja\nDiscord: https://discord.io/biasa-aja",
+  "description": "The creature known as man is quick to misunderstand. The same applies to the the pure middle-schooler Yokoyama-kun A diligent fellow who does his infirmary duty properly. You're so nice. Thank you. The one to say that to him was his classmate Nishino-san, so Yokoyama-kun ended up thinking (Isn't she only nice to me?! ) He couldn't help but be hopeful. (Does she like me?! ). This is the start of the misleading life between the fantasizing Yokoyama-kun and the equivocator Nishino-san.",
   "artist": "MOMOSE Arata",
   "author": "MOMOSE Arata",
   "cover": "https://cdn.discordapp.com/attachments/569146867489964044/862706693192679424/001.png",
   "chapters": {
     "01": {
-      "title": "Yokoyama-kun and Nishino-san",
+      "title": "Yokoyama-kun dan Nishino-san",
       "volume": "1",
       "groups": {
         "biasa aja": "/proxy/api/imgur/chapter/QNOrkuA/"
       },
       "last_updated": "1625756905"
-    },
-    "02": {
-      "title": "Nishino-san and the Bite Marks",
-      "volume": "1",
-      "groups": {
-        "biasa aja": "/proxy/api/imgur/chapter/6iDdeo8/"
-      },
-      "last_updated": "1625897629"
     }
   }
 }
